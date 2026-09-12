@@ -34,6 +34,7 @@ Sbírka slovních spojení, která se v češtině říkají odjakživa.
 - hokus pokus
 - hop nebo trop
 - hopsa hejsa
+- hupcuk
 - hrc prc
 - kde nic, tu nic
 - klapity klap
@@ -41,6 +42,7 @@ Sbírka slovních spojení, která se v češtině říkají odjakživa.
 - kliky háky
 - krinda pána
 - krindy pindy
+- krok sun krok
 - kruci písek
 - krucinál fagot
 - křížem krážem
@@ -55,12 +57,13 @@ Sbírka slovních spojení, která se v češtině říkají odjakživa.
 - matla patla
 - miš maš
 - morces hadry
-- mýrnix týrnix
+- mírnix týrnix
 - nazdar bazar
 - nota bene
 - odsuď pocuď
 - odsuď podsuď
 - ouky douky
+- prdly vody
 - pif paf
 - pro nic, za nic
 - růčo fůčo
@@ -80,13 +83,14 @@ Sbírka slovních spojení, která se v češtině říkají odjakživa.
 - šuby duby
 - šup sem, šup tam
 - šupito presto
+- šupky dupky
 - techtle mechtle
 - tě péro
 - tě pic
 - tingl tangl
 - tip ťop
 - trnky brnky
-- třesky blesky
+- třesky plesky
 - tůdle nůdle
 - tuty fruty
 - v cuku letu
