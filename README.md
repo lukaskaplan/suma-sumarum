@@ -45,6 +45,7 @@ Sbírka slovních spojení, která se v češtině říkají odjakživa.
 - krucinál fagot
 - křížem krážem
 - kudy tudy
+- kudy z nudy
 - kurník šopa
 - kýho šlaka
 - kýho výra
