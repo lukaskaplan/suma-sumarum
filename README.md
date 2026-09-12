@@ -11,6 +11,7 @@ Sbírka slovních spojení, která se v češtině říkají odjakživa.
 - cimpr campr
 - cinky linky
 - čágo belo
+- čáry máry
 - čoro moro
 - čury mury
 - čus bus
