@@ -85,6 +85,7 @@ Sbírka slovních spojení, která se v češtině říkají odjakživa.
 - šupito presto
 - šupky dupky
 - techtle mechtle
+- tě buch
 - tě péro
 - tě pic
 - tingl tangl
